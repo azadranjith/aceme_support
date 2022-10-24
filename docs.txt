@@ -1,0 +1,8 @@
+django-admin startproject Acme
+
+python manage.py startapp acme_user
+
+add acme_user to INSTALLED_APPS in settings.py
+
+git init
+
